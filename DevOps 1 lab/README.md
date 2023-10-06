@@ -57,28 +57,38 @@
 ## Команды, используемые в лабораторной работе:
 1. Определение IP-адреса устройства в данной локальной сети (ip a)
 
-
+![Пример команды 1](https://github.com/Ermack241/White-maned-horses/blob/main/DevOps%201%20lab/pic/%D0%A0%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA1.png)
 
 Рис 7. - Пример команды
 
 2. Подключение по ssh к удаленному устройству 
 (ssh remote_username@remote_host)
 
+![Пример команды 2](https://github.com/Ermack241/White-maned-horses/blob/main/DevOps%201%20lab/pic/%D0%A0%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA2.png)
+
 Рис 8. - Пример команды
 
 3. Выход с локального устройства (logout)
+
+![Пример команды 3](https://github.com/Ermack241/White-maned-horses/blob/main/DevOps%201%20lab/pic/%D0%A0%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA3.png)
 
 Рис 9. - Пример команды
 
 4. Передача файла по SSH-ключу
 (scp remote_username@remote_host: path_of_file_src path_of_file_dst)
 
+![Пример команды 4](https://github.com/Ermack241/White-maned-horses/blob/main/DevOps%201%20lab/pic/%D0%A0%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA4.png)
+
 Рис 10. - Пример команды
 
 5. Просмотр файлов текущего каталога (ll  path_of_catalog)
 
+![Пример команды 5](https://github.com/Ermack241/White-maned-horses/blob/main/DevOps%201%20lab/pic/%D0%A0%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA5.png)
+
 Рис 11. - Пример команды
 
 6. Информация о версии операционной системы (cat /etc/os-release)
+
+![Пример команды 6](https://github.com/Ermack241/White-maned-horses/blob/main/DevOps%201%20lab/pic/%D0%A0%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA6.png)
 
 Рис 12. - Пример команды
