@@ -1,5 +1,9 @@
-FROM python:3.9
+FROM python:latest
+
+RUN cd /app
 RUN pip install Flask==0.10.1
-WORKDIR /app
+RUN pip install -r requirements.txt
+
+
 COPY app /app
-CMD ["python", "myapp.py"]
+CMD ["python", "app.py"]
