@@ -18,4 +18,5 @@
 ## Вывод
 Ура, мы поняли. что такое Doker и Dokerfile!
 
-# Еще один Просто Жираф
+## Еще один Просто Жираф
+![JustGiraffe](https://github.com/Ulitka-na-sklone/White-maned-horses/blob/main/DevOps%202%20lab/GiraffeTLoA.jpg?raw=true)
