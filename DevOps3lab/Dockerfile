@@ -2,6 +2,6 @@ FROM python:3
 
 WORKDIR /app/
 
-COPY task/ .
+COPY DevOps3lab/task/ .
 
 CMD ["python", "generate_text.py"]
