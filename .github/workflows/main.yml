@@ -1,0 +1,25 @@
+name: Build and Save Docker Image
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+
+    - name: Build Docker Image
+      run: |
+        docker build -t myimage -f DevOps3lab/Dockerfile .
+        docker run --rm myimage > output.txt
+
+    - name: Save Output
+      uses: actions/upload-artifact@v2
+      with:
+        name: result
+        path: output.txt
