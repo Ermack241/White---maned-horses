@@ -61,16 +61,27 @@
 4.	Определение соответствия каждого сервиса международного провайдера русскому сервису
 
 Azure App Center - Yandex Cloud Apps, приложения VK Cloud
+
 Azure App Configuration - Yandex Cloud Apps, приложения VK Cloud
+
 Azure App Service - Yandex Cloud Apps, приложения VK Cloud
+
 Azure Monitor - Yandex Monitoring (позволяет собирать и хранить метрики, а также отображать их в виде графиков на дашбордах); Cloud Monitoring от VK Cloud (сбор нужных данных о системе, в том числе любые пользовательские параметры)
+
 Azure Automation - Yandex Resource Manager (определяет ресурсную модель Yandex Cloud и позволяет структурировать ресурсы с помощью каталогов)
+
 Azure SQL servers - Yandex Managed Service for MySQL (управление реляционной СУБД в инфраструктуре Yandex Cloud); DBaaS от VK Cloud (полностью управляемые и масштабируемые СУБД с гарантированным уровнем сервиса)
+
 Azure Bastion - Yandex Virtual Private Cloud (управление облачными сетями, которые передают информацию между ресурсами Yandex Cloud и обеспечивают им доступ в интернет); Private Cloud от VK Cloud (платформа для построения частного облака в ЦОДе заказчика. Включает набор готовых ИТ-инструментов для разработки и безопасности и маркетплейс бизнес-приложений)
+
 Azure Data Factory – CDN от VK Cloud (доставку контента с минимальной задержкой от ваших серверов к пользователям даже во время пиковых нагрузок)
+
 Azure Firewall - Yandex Virtual Private Cloud (управление облачными сетями, которые передают информацию между ресурсами Yandex Cloud и обеспечивают им доступ в интернет)
+
 Azure Power BI - Yandex DataLens (визуализации и анализа данных); Cloud Spark от VK Cloud (обработка данных любого объема)
+
 Azure Site Recovery - Yandex Cloud Backup (создание резервных копий и восстановления виртуальных машин); Cloud Backup от VK Cloud (автоматизированное управление резервными копиями)
+
 Azure Virtual Machine - Yandex Compute Cloud (предоставление масштабируемых вычислительных мощностей для размещения, тестирования и прототипирования проектов)
 
 ## Вывод
